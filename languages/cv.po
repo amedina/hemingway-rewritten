@@ -1,0 +1,299 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Chuvash
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-06 14:46:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cv_RU\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#: inc/custom-header.php:31
+msgid "Default Header Image"
+msgstr "Хăйевĕрлетмен Шапка Сăнĕ"
+
+#: inc/wpcom-colors.php:40 inc/wpcom-colors.php:45
+msgid "Color Name"
+msgstr "Тĕс ячĕ"
+
+#: inc/wpcom-colors.php:35
+msgid "Secondary Accent"
+msgstr "Иккĕмĕшле Акцент"
+
+#: inc/wpcom-colors.php:30
+msgid "Main Accent"
+msgstr "Тĕп Акцент"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "%s малалла вулас"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Пĕтĕм сарлакăшĕпех, Çум панельсĕр"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/style.css
+msgid "Hemingway Rewritten is a classic blog theme with a parallax-scrolling header effect and a minimal, elegant design. The large featured header images make this theme great for photographers, or any users who want to share their visuals in a bold way."
+msgstr "Hemingway Rewritten (Хемингуэя Çĕнĕрен çырнă) вăл параллакс эффекчĕллĕ шапкăллă, минималистла, черчен классикăлла блог теми. Ятарлă ÿкерчĕксем пысăккăн тухни ку темăна фотографсем, е хăйсен ÿкерчĕкĕсемпе харсăррăн пайлашма кăмăллакан усă куракансем валли уйрăмах аван тăвать."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s валли Шырав результачĕсем"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s числара %2$s вăхăтра"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "Сирĕн комментари модерацине кĕтет."
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "Каялла пинглани:"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Публикаци навигацийĕ"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Çĕнĕрех постсем <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Кивĕрех публикацисем"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Публикацисен навигацийĕ"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:40
+msgid "Search"
+msgstr "Шырас"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Тÿрех контент патне сиксе каç"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:96
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway,
+#. * translate this to 'off'. Do not translate into your own language.
+#: functions.php:136
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato,
+#. * translate this to 'off'. Do not translate into your own language.
+#: functions.php:141
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:80
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:88
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Чи тĕп меню"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Стиль: %1$s by %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s пулăшнипе ĕçлет"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "Ятарлăн сĕннĕ"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Эсир шыракан япала тупăнмасть пек туйăнать. Тен шырав туса пăхни усăллă пулĕ."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Каçарăр та, анчах сирĕн шырав сăмахĕсене нимĕн тÿр килмерĕ. Тархасшăн, урăх сăмахсем çырса кĕртсе тепĕр хут туса пăхăр."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ну, хатĕр-и пĕрремĕш публикаци тума? <a href=\"%1$s\">Кунта пуçлăр</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ним тупăнмарĕ"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-media.php:44 content-single.php:33
+#: content-single.php:42
+msgid ", "
+msgstr ", "
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "Тÿрлетес"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "Комментари"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% Комментари"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "Комментари хăварас"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "Страницăсем:"
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Малалла вулас <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Комментари çырассине чарнă."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Çĕнĕрех Комментарисем &rarr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Кивĕрех комментарисем"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "Комментари навигацийĕ"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; çине пĕр шухăш"
+msgstr[1] "&ldquo;%2$s&rdquo; çине %1$s шухăш"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Архив"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Чатсем"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Статуссем"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Каçăсем"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Цитатăсем"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Видеосем"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Сăнÿкерчĕксем"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Галерейăсем"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Кĕскен çырнисем"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Çул: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Уйăх: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Авторĕ: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Кун: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ку вырăнта нимĕнте тупăнмарĕ пек. Тен Шырав туса пăхас?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ак тата! Ку страница тупăнмарĕ."

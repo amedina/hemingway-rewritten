@@ -1,0 +1,270 @@
+# Translation of WordPress.com - Themes - Hemingway Rewritten in Chinese (Taiwan)
+# This file is distributed under the same license as the WordPress.com - Themes - Hemingway Rewritten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-01 12:00:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: WordPress.com - Themes - Hemingway Rewritten\n"
+
+#: inc/wpcom-colors.php:35
+msgid "Secondary Accent"
+msgstr "次要輔色"
+
+#: inc/wpcom-colors.php:40 inc/wpcom-colors.php:45
+msgid "Color Name"
+msgstr "色彩名稱"
+
+#: inc/wpcom-colors.php:30
+msgid "Main Accent"
+msgstr "主要輔色"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:105
+msgid "Continue reading %s"
+msgstr "繼續閱覽 %s"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/style.css
+msgid "Hemingway Rewritten is a classic blog theme with a parallax-scrolling header effect and a minimal, elegant design. The large featured header images make this theme great for photographers, or any users who want to share their visuals in a bold way."
+msgstr "Hemingway Rewritten 是經典的網誌佈景主題，採用視差捲動的頁首效果和極簡的優雅設計。大型的特色頁首圖片使得此佈景主題成為攝影師的絕佳選擇，也適合想要以大膽活潑的方式分享視覺內容的使用者。"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/hemingway-rewritten/nosidebar-page.php
+msgid "Full Width, No Sidebar"
+msgstr "全寬，無側欄"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s 的搜尋結果："
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:142
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:135
+msgid "Your comment is awaiting moderation."
+msgstr "你的留言正在審核中。"
+
+#: inc/template-tags.php:122
+msgid "Pingback:"
+msgstr "引用通告："
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "文章分頁導航"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "較新的文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 較舊的文章"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章導覽列"
+
+#: inc/extras.php:68
+msgid "Page %s"
+msgstr "%s 頁"
+
+#: header.php:40
+msgid "Search"
+msgstr "搜尋"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "直接觀看文章"
+
+#: header.php:35
+msgid "Menu"
+msgstr "選單"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato,
+#. * translate this to 'off'. Do not translate into your own language.
+#: functions.php:141
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:96
+msgid "Footer 3"
+msgstr "頁尾3"
+
+#: functions.php:88
+msgid "Footer 2"
+msgstr "頁尾2"
+
+#: functions.php:80
+msgid "Footer 1"
+msgstr "頁尾1"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr "邊欄"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "佈景主題：%1$s，發表者：%2$s。"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "自豪的使用  %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://tw.wordpress.org/"
+
+#: content.php:11 inc/template-tags.php:87
+msgid "Featured"
+msgstr "精選"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發表你的第一篇文章了嗎？<a href=\"%1$s\">自這裡開始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "什麼都沒找到"
+
+#. translators: used between list items, there is a space after the comma
+#: content-media.php:35 content-media.php:44 content-single.php:33
+#: content-single.php:42
+msgid ", "
+msgstr "、"
+
+#: content-media.php:28 content-page.php:23 content-single.php:16
+#: content.php:28 inc/template-tags.php:122 inc/template-tags.php:151
+msgid "Edit"
+msgstr "編輯"
+
+#: content-media.php:26 content.php:26
+msgid "% Comments"
+msgstr "% 則迴響"
+
+#: content-media.php:26 content.php:26
+msgid "1 Comment"
+msgstr "1 則留言"
+
+#: content-media.php:26 content.php:26
+msgid "Leave a comment"
+msgstr "發表迴響"
+
+#: content-media.php:12 content-page.php:18 content-single.php:24
+#: content.php:42
+msgid "Pages:"
+msgstr "頁次："
+
+#: content-media.php:9 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "繼續閱讀 <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "迴響已被關閉。"
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "較新的評論 &rarr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; 較早的評論"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "評論分頁導航"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s 有 &ldquo; %1$s 則留言 &rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "彙整"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "音訊"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "閒聊"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "狀態"
+
+#: archive.php:54
+msgid "Links"
+msgstr "鏈結"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "引文"
+
+#: archive.php:45
+msgid "Images"
+msgstr "圖片"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "藝廊"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "看來這裡找不到東西。也許可以試試看搜尋？"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到該頁面。"
